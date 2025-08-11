@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-06 12:05+0200\n"
-"PO-Revision-Date: 2021-03-23 08:03+0100\n"
+"PO-Revision-Date: 2025-08-11 20:03+0200\n"
+"Last-Translator: Kálmán „KAMI” Szalai <kami911@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
-"Last-Translator: Bosák Balázs <bossbob88@gmail.com>\n"
-"Language-Team: \n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #: applet.js:103 3.2/applet.js:92
 msgid "Date and Time Settings"
@@ -24,7 +24,7 @@ msgstr "Dátum és idő beállítások"
 #. Track changes to clock settings
 #: 3.2/applet.js:105
 msgid "%A %B %-e, %Y"
-msgstr "%A %B %-e, %Y"
+msgstr "%Y. %B %e., %A"
 
 #. 3.2->settings-schema.json->use-custom-format->description
 msgid "Use a custom date format"
