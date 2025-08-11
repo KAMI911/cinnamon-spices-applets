@@ -70,7 +70,7 @@ msgstr "Általános"
 
 #. settings-schema.json->sectionLink->title
 msgid "Rom Library"
-msgstr "ROM könyvtár"
+msgstr "ROM-fájl gyűjtemény"
 
 #. settings-schema.json->sectionTips->title
 #. settings-schema.json->sectionGamesTips->title
